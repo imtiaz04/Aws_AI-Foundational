@@ -80,7 +80,11 @@ metrix generated:
 
 <img width="501" height="294" alt="image" src="https://github.com/user-attachments/assets/1293e361-9ba7-4a3b-99f1-16204d604066" />
 
+Wrap-up:
 
+Set-up Aws sagemaker studio and prepared data for machine learning.
+Trained a simple binary classification model using sageMaker's Linear learner algorithm.
+Evaluated the performance of the model using accuracy, presision, recall, and f1-score metrix.
 
 
 
