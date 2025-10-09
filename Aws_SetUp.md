@@ -40,6 +40,54 @@ Add user in user profile:
 
 <img width="596" height="169" alt="image" src="https://github.com/user-attachments/assets/25873d50-8664-4239-82da-a98480cfe1f6" />
 
+Launching Notebook:
+
+<img width="944" height="299" alt="image" src="https://github.com/user-attachments/assets/23285ee3-819d-4f7e-a583-891c9508f20c" />
+
+Running the lab:
+
+<img width="947" height="371" alt="image" src="https://github.com/user-attachments/assets/2bb1d57d-8717-4f45-927a-cdeaeae604ac" />
+
+importing pandas:
+
+<img width="427" height="235" alt="image" src="https://github.com/user-attachments/assets/1bc8a5f1-5c60-43b5-a502-503278d70343" />
+
+Split the data and train the model:
+
+<img width="681" height="296" alt="image" src="https://github.com/user-attachments/assets/b55d5f09-1b8d-46f1-b336-82380836c782" />
+
+convert data into record set format and train model using linear.fit(train_records)
+
+<img width="671" height="329" alt="image" src="https://github.com/user-attachments/assets/28b64e53-8eb9-4ab6-a34d-9742fed8a537" />
+
+trainig job completed:
+
+<img width="367" height="59" alt="image" src="https://github.com/user-attachments/assets/309859b1-00e4-455e-82db-523815e3e90f" />
+
+Evaluating model:
+
+<img width="578" height="359" alt="image" src="https://github.com/user-attachments/assets/318ad352-fa9c-41cb-9272-a792d8003a73" />
+
+results:
+
+<img width="199" height="57" alt="image" src="https://github.com/user-attachments/assets/471a4618-1967-42e2-bdeb-dde96cb19995" />
+
+Creating confusion metrix:
+
+<img width="727" height="316" alt="image" src="https://github.com/user-attachments/assets/ca9c3c26-5809-4e5b-a167-76c89af91ca1" />
+
+metrix generated:
+
+<img width="501" height="294" alt="image" src="https://github.com/user-attachments/assets/1293e361-9ba7-4a3b-99f1-16204d604066" />
+
+
+
+
+
+
+
+
+
 
 
 
