@@ -1,5 +1,5 @@
 Amazon Rekognition : Image And video Analasys
-  Amazon Rekognition is fullu managed computer vision service that enables devlopers to analyze images,and videos.
+  Amazon Rekognition is fully managed computer vision service that enables devlopers to analyze images,and videos.
   It can perform tasks such as Object,scene detection, Facial analasys, Facial recognition, activity detection,and content moderation.
   usage:
     API integration
